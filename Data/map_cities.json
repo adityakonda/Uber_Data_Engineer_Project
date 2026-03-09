@@ -2,71 +2,71 @@
   {
     "city_id": 1,
     "city": "V1 New York",
-    "state": "NY",
+    "state": "V1 NY",
     "region": "Northeast",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 2,
     "city": "V1 Los Angelas",
-    "state": "CA",
+    "state": "V1 CA",
     "region": "West",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 3,
     "city": "V1 Chicago",
-    "state": "IL",
+    "state": "V1 IL",
     "region": "Midwest",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 4,
     "city": "V1 Houston",
-    "state": "TX",
+    "state": "V1 TX",
     "region": "South",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 5,
     "city": "V1 Phoenix",
-    "state": "AZ",
+    "state": "V1 AZ",
     "region": "Southwest",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 6,
     "city": "V1 Philadelphia",
-    "state": "PA",
+    "state": "V1 PA",
     "region": "Northeast",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 7,
     "city": "V1 San Antonio",
-    "state": "TX",
+    "state": "V1 TX",
     "region": "South",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 8,
     "city": "V1 San Diego",
-    "state": "CA",
+    "state": "V1 CA",
     "region": "West",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 9,
     "city": "V1 Dallas",
-    "state": "TX",
+    "state": "V1 TX",
     "region": "South",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   },
   {
     "city_id": 10,
     "city": "V1 San Jose",
-    "state": "CA",
+    "state": "V1 CA",
     "region": "West",
-    "updated_at": "2026-03-05T23:41:54.255+00:00"
+    "updated_at": "2026-03-07T23:41:54.255+00:00"
   }
 ]
